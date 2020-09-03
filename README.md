@@ -5,7 +5,7 @@ This repository contains the capstone project from Coursera's IBM Applied Data S
 Filename: Report-Analyzing the Neighborhoods of Seattle.pdf
 
 ### Presentation Slides
-Filename: Presentation-Analyze the Neighborhoods of Seattle.pptx
+Filename: Presentation-Analyze the Neighborhoods of Seattle.pdf
 
 ### Jupyter Notebook
 Filename: Notebook-Analyzing the Neighborhoods of Seattle.ipynb
